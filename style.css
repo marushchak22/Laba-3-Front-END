@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(223, 223, 232);
+    height: 100%;
+}
+
+.main-container {
+    background-color: rgb(165, 164, 206);
+    margin: 100px;
+    height: 600px;
+}
+
+.image {
+    background-color: rgb(127, 133, 185);
+    float: left;
+    width: 25%;
+    height: 65%;
+    text-align: center;
+}
+
+.text {
+    background-color: rgb(110, 160, 225);
+    float: right;
+    width: 75%;
+    height: 65%;
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+.image2, .text2 {
+    float: left;
+    width: 100%;
+    height: 17.5%;
+    text-align: center;
+}
+
+.image2 {
+    background-color: rgb(9, 17, 87);
+}
+
+.text2 {
+    background-color: rgb(200, 225, 110);
+}
